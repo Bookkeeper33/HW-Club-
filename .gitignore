@@ -3,3 +3,5 @@
 *.txt
 *.in
 *.exe
+.vscode/
+*.DS_Store
